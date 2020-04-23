@@ -29,7 +29,7 @@ public class ConversorDeImagem_CBR extends Application {
        this.window.setResizable(false);
        
        Label label = new Label("Diretório padrão:");
-       TextField textField = new TextField("/Users/Miguel/Desktop/Berserk/Baixados agora em .cbr/Berserk");
+       TextField textField = new TextField("/Users/UserName/Diretório_com_os_diretórios_das_imagens");
        Button button = new Button("Novo diretório padrão");
        Button button2 = new Button("Converter Imagens em .cbr");
        
